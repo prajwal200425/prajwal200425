@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prajwal200425
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning programming languages 
-- 
+- 🌱 I’m currently working on mern stack
 - 📫 How to reach me prajwalmajgaonkar@gmail.com 
 - 
 
