@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Majgaonkar</h1>
 <h3 align="center">A Passionate MERN stack developer uses MongoDB, Express.js, React, and Node.js to build full-stack web applications. I create dynamic user interfaces, develop server-side applications.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal200425&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal200425" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwal200425" alt="prajwal200425" /></a> </p>
