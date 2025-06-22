@@ -15,7 +15,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,postman,java,sql" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,html,css,git,github,vscode,postman,java,sql" />
 </p>
 
 ---
@@ -43,6 +43,6 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://[linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prajwal-majgaonkar/)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
 </p>
