@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
 
 - 🔭 I’m currently working on **Java and MERN stack projects**  
 - 🌱 I’m currently learning **Java frameworks like Spring, JDBC, JSP, and Servlet**  
